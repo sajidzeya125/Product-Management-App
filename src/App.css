@@ -1,0 +1,12 @@
+body {
+    font-family: 'Inter', sans-serif;
+            /* Deep space gradient background */
+            background-color: #1a1a2e;
+            background-image: radial-gradient(circle at top right, #16213e, #1a1a2e 40%);
+            background-repeat: no-repeat;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
